@@ -1,3 +1,6 @@
 # This is additional domains identified as ads domains
 s0.2mdn.net
 betano.com
+tpc.googlesyndication.com
+googleads.g.doubleclick.net
+e94eae9daf.a72467ec08.com
